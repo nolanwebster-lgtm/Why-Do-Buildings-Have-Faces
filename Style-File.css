@@ -1,0 +1,14 @@
+body {background-color: rgb(174, 174, 174); font-family: Arial, Helvetica, sans-serif; margin-left: 50px;}
+#title {color: rgb(0, 0, 0); text-shadow: 3px 3px #757575, 5px 5px #ffffff;}
+#header {background-color: rgba(255, 255, 255, 0.374); margin-right:10%}
+h2 {color: rgb(0,0,0)}
+p {width: 800px}
+.spacer {margin-bottom: 50px;}
+img.stone {position:absolute; margin-left: 850px; margin-right:50px;max-width: 400px; box-shadow:3px 3px #ffffff, 5px 5px #757575;}
+img.smaller {max-width: 200px;box-shadow:3px 3px #ffffff, 5px 5px #757575;}
+img.medium {max-width: 400px;box-shadow:3px 3px #ffffff, 5px 5px #757575;}
+#olNAV li{list-style:circle; margin-top: 50px; margin-bottom: 50px; color:rgb(25, 112, 144); font-weight: bold; transform: scaleY(3.0);}
+.footer {position:absolute; height:200%; margin-top:200px}
+a:link {color:#ffffff;}
+a:hover {color:#00388b;}
+a:visited {color:#ffffff;}
